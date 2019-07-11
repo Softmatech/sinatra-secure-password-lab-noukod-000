@@ -13,6 +13,7 @@ gem 'rack-test'
 gem 'shotgun'
 gem 'pry'
 gem 'json'
+gem 'json', '~> 1.8', '>= 1.8.3'
 
 group :development do
   gem 'sqlite3'
